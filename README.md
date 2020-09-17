@@ -1,6 +1,6 @@
 # PhoBo - Image Filter Android Application
 
-[![PhoBo Screen Shot][PhoBo-screenshot]](https://github.com/gaugau147/PhoBo/blob/master/demo/demo.gif)
+![PhoBo Screen Shot](https://github.com/gaugau147/PhoBo/blob/master/demo/demo.gif)
 
 ### Dependencies
 * [ImageFilter](https://www.androidhive.info): The original package is from Zomato, this is an modified version from AndroidHive.
